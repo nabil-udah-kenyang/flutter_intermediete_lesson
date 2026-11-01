@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "408931096490",
+    "firebase_url": "https://belajar-firebase-855ce-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "belajar-firebase-855ce",
+    "storage_bucket": "belajar-firebase-855ce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408931096490:android:a429fff43f38bb3f1f7dd3",
+        "android_client_info": {
+          "package_name": "com.nabil.auth_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3KFdYUUI5k0Iwo5pGZgOMiV4uqW1S0j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408931096490:android:83f6876e1a4267a11f7dd3",
+        "android_client_info": {
+          "package_name": "r.belajar_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3KFdYUUI5k0Iwo5pGZgOMiV4uqW1S0j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
